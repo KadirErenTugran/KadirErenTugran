@@ -40,14 +40,9 @@
 <tr align="center">  
 <td width="50%"><strong>Backend</strong></td>  
 <td width="50%">
-     <img width="36px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 	<img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
 	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
-	<img width="36px" src="https://img.stackshare.io/service/994/4aGjtNQv.png"/>
-	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </td>  
 </tr>  
 <tr align="center">  
