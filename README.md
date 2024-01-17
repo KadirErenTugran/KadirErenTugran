@@ -5,7 +5,8 @@
 <td>
 <ul>
 <li>✨ Learning React and Js Techs.</li>
-<li>🎓 Studying Computer Engineering.</li>
+<li>🎓 Studying Computer Engineering.</li> 
+	
 </ul>
 </td>
 <td>
