@@ -4,9 +4,7 @@
 <tr>
 <td>
 <ul>
-<li>✨ Learning React</li>
-<li>🌱 Experimenting with React</li>
-<li>👯 Interested in Open Source, Cloud Technology, Blockchain and AI.</li>
+<li>✨ Learning React and Js Techs.</li>
 <li>🎓 Studying Computer Engineering.</li>
 </ul>
 </td>
