@@ -26,8 +26,6 @@
 	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 	<img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </td>  
 </tr>  
 <tr align="center">  
@@ -53,33 +51,12 @@
 </td>  
 </tr>  
 <tr align="center">  
-<td width="50%"><strong>Blockchain</strong></td>  
-<td width="50%">
-    <img width="36px" src="https://img.icons8.com/fluent/48/000000/ethereum.png"/>
-    <img width="36px" height="34px" src="https://www.trufflesuite.com/img/truffle-logomark.svg"/>
-    <img width="36px" height="34px" src="https://www.trufflesuite.com/img/ganache-logomark.svg"/>
-    <img width="36px" height="34px" src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png"/>
-</td>  
-</tr>  
-<tr align="center">  
 <td width="50%"><strong>Version Control</strong></td>  
 <td width="50%">
    <img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
 	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </td>  
 </tr>  
-<tr align="center">  
-<td width="50%"><strong>Cloud Tech</strong></td>  
-<td width="50%">
-	<img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-</td>  
-</tr> 
-<tr align="center">  
-<td width="50%"><strong>Computer Vision</strong></td>  
-<td width="50%">
-	<img width="36px" src="https://img.icons8.com/fluent/48/000000/opencv.png"/>
-</td>  
-</tr> 
 </table>
 <br/>
 <br/>
@@ -88,11 +65,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebjitPramanick&theme=synthwave"/>
 </div>
-<br/>
-
-<h2 align="center">Let's Connect <h2>
-<p align="center" backgroud="./images/mid.png">
-	<a href="https://github.com/DebjitPramanick"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/debjit.pramanick.56/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/debjitpramanickk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
